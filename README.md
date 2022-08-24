@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kharisty
+- 👋 Hi, I’m @Risty
 - 👀 I’m interested in QA Automation
 - 🌱 I’m currently learning Selenium, Katalon, Postman, JMeter
 
