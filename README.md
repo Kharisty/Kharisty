@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Risty
-- 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Selenium, Katalon, Postman, JMeter
 
 <!---
 Kharisty/Kharisty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
